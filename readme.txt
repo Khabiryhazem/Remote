@@ -1,1 +1,1 @@
-This file was updated in the local branch "local_a" to push to "remote_a"
+This file was updated in the local branch "local_a" to push to "remote_a" without merging the remote_a branch to the remote master branch
